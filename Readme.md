@@ -16,7 +16,7 @@ This library is stable and is used in production environments. However, some com
 
 # Installation
 
-Just run `go get github.com/hoisie/redis`
+Just run `go get github.com/invalid2012/redis`
 
 ## Examples
 
